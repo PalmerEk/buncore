@@ -46,7 +46,7 @@ Uncompressed public keys start with 0x04; compressed public keys begin with 0x03
 
 Example:
 ```javascript
-> var bitcore = require('bitcore');
+> var bitcore = require('buncore');
 
 // compressed public key starting with 0x03 (greater than midpoint of curve)
 > var compressedPK = bitcore.PublicKey('030589ee559348bd6a7325994f9c8eff12bd'+
