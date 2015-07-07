@@ -1,20 +1,22 @@
 {
-  "name": "bitcore",
-  "main": "./bitcore.min.js",
+  "name": "buncore",
+  "main": "./buncore.min.js",
   "version": "0.12.11",
-  "homepage": "http://bitcore.io",
+  "homepage": "",
   "authors": [
-    "BitPay, Inc."
+    "BitPay, Inc.",
+    "Ek Palmer (<buncore@PalmerEk.com>)"
   ],
-  "description": "A pure, powerful core for your bitcoin project.",
+  "description": "A pure, powerful core for your Bunnycoin project.",
   "moduleType": [
     "globals"
   ],
   "keywords": [
-    "bitcoin",
+    "bunnycoin",
+    "buncore",
     "bitcore",
     "btc",
-    "satoshi"
+    "ohare"
   ],
   "license": "MIT",
   "ignore": [
